@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <resources>
+
+        <color name="black">#FF121212</color>        <!-- Daha yumuşak siyah -->
+        <color name="white">#FFECECEC</color>        <!-- Kırık beyaz (göz yormaz) -->
+        <color name="anaRenk">#BA883F</color>        <!-- Daha koyu bir turuncu ton -->
+        <color name="yaziRenk1">#000000</color>    <!-- Aynı kalabilir (güzel bir bej) -->
+        <color name="yaziRenk2">#FFFFC966</color>    <!-- Daha sıcak ve geceye uygun sarı -->
+        <color name="renk3">#AF5919</color>        <!-- Daha koyu kahverengi (gece uyumlu) -->
+
+    </resources>
+
+

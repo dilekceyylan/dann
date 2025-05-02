@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">danborgir</string>
+
+
+    <string name="anadolu">Anadolu Hamburger</string>
+    <string name="ikikofte">İki Köfteli </string>
+    <string name="cheddar">Cheddar</string>
+    <string name="domates">Domates</string>
+    <string name="teslimatSure">20 DAKİKADA TESLİM</string>
+    <string name="hamburgerAciklama">Anadoludan Burger!</string>
+    <string name="fiyatYazi">$6</string>
+    <string name="buttonYazi">Sepete Ekle</string>
+    <string name="marul">Marul</string>
+    <string name="tursu">Turşu</string>
+    <string name="danbörgır">DAN BÖRGIR</string>
+</resources>
